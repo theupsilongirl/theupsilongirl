@@ -91,30 +91,15 @@ Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now li
 
 ## Github stats 📊
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theupsilongirl&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
   <img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theupsilongirl&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
   <br/>
-</details>
 
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theupsilongirl&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theupsilongirl&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)]
-
-</details>
-
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=theupsilongirl&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
-
+  <img src="https://komarev.com/ghpvc/?username=theupsilongirl&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" style="margin-left:calc(50% - 50px)">
+<br><br>
   <a href="https://github.com/theupsilongirl/theupsilongirl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theupsilongirl&repo=theupsilongirl&theme=default" /> 
   <a href="https://github.com/theupsilongirl/theupsilongirl.github.io">
