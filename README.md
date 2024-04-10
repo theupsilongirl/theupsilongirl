@@ -2,21 +2,12 @@
 ![image](https://github.com/theupsilongirl/theupsilongirl/assets/166620784/132b2404-dae7-4482-8ba6-2f56f7aa4aea)
 
 
-<a href="https://www.instagram.com/theupsilongirl/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.discord.com/users/1227221670658441288">
-<img src="https://img.shields.io/badge/Discord-%7289da.svg?style=for-the-badge&logo=Discord&logoColor=white&color=7289da">
-</a>
-<a href="https://www.linkedin.com/in/emi-tanaka1/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-<a href="https://t.me/theupsilongirl/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://gitlab.com/theupsilongirl">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
+<a href="https://www.instagram.com/theupsilongirl/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.discord.com/users/1227221670658441288"><img src="https://img.shields.io/badge/Discord-%7289da.svg?style=for-the-badge&logo=Discord&logoColor=white&color=7289da"></a>
+<a href="https://www.linkedin.com/in/emi-tanaka1/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="https://t.me/theupsilongirl/"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://gitlab.com/theupsilongirl"><img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+<a><img src="https://komarev.com/ghpvc/?username=theupsilongirl&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"></a>
 
 </div>
 <p></p>
@@ -94,13 +85,12 @@ Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now li
 ## Github stats 📊
 
   <br/>
-    <img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theupsilongirl&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
-  <img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theupsilongirl&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theupsilongirl&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theupsilongirl&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
   <br/>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theupsilongirl&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theupsilongirl&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)
 
-  <img src="https://komarev.com/ghpvc/?username=theupsilongirl&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" style="margin-left:calc(50% - 50px)">
 <br><br>
   <a href="https://github.com/theupsilongirl/theupsilongirl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theupsilongirl&repo=theupsilongirl&theme=default" /> 
