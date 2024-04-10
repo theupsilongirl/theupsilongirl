@@ -1,4 +1,6 @@
 # Emi Tanaka here !
+![image](https://github.com/theupsilongirl/theupsilongirl/assets/166620784/132b2404-dae7-4482-8ba6-2f56f7aa4aea)
+
 
 <a href="https://www.instagram.com/theupsilongirl/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -19,7 +21,7 @@
 </div>
 <p></p>
 <p align="justify">
-Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now living in France. Check out my portfolio where I showcase my expertise in backend and frontend development using React, TypeScript, Python, C#, and Go.
+Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now living in France. Check out my <a href="https://theupsilongirl.github.io/">portfolio</a> where I showcase my expertise in backend and frontend development using React, TypeScript, Python, C#, and Go.
 
 </p>
 
