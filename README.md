@@ -1,5 +1,5 @@
 # Emi Tanaka here !
-<a href="https://theupsilongirl.github.io/">![image](https://github.com/theupsilongirl/theupsilongirl/assets/166620784/132b2404-dae7-4482-8ba6-2f56f7aa4aea)</a>
+<a href="https://theupsilongirl.github.io/">![image](https://github.com/theupsilongirl/theupsilongirl/assets/166620784/56df0826-68f8-43d2-9da7-038886b546e2)</a>
 <a href="https://www.instagram.com/theupsilongirl/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.discord.com/users/1227221670658441288"><img src="https://img.shields.io/badge/Discord-%7289da.svg?style=for-the-badge&logo=Discord&logoColor=white&color=7289da"></a>
 <a href="https://www.linkedin.com/in/emi-tanaka1/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
