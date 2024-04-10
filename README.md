@@ -123,4 +123,4 @@ Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now li
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=theupsilongirl&row=1&margin-w=40)]()
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/theupsilongirl/theupsilongirl/raw/master/dino.gif" style="display: block; opacity: 1;">
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/theupsilongirl/theupsilongirl/main/dino.gif" style="display: block; opacity: 1;">
