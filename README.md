@@ -105,7 +105,6 @@ Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now li
 [![Discord Presence](https://lanyard.cnrad.dev/api/587382241588543491)](https://discord.com/users/587382241588543491)
 
   <br/>
-  <br/>
 
 ## GitHub Profile Trophies 🏆
 
