@@ -102,22 +102,16 @@ Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now li
 
 </details>
 
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
   <a href="https://github.com/theupsilongirl/theupsilongirl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theupsilongirl&repo=theupsilongirl&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theupsilongirl&repo=theupsilongirl&theme=default" /> 
   <a href="https://github.com/theupsilongirl/theupsilongirl.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theupsilongirl&repo=theupsilongirl.github.io&theme=default" />
 </a>
+  <a href="https://github.com/prescoter/Emora-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prescoter&repo=Emora-Project&theme=default" />
+</a>
   <br/>
   <br/>
-
-</details>
 
 ## GitHub Profile Trophies 🏆
 
