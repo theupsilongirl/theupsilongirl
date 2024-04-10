@@ -98,6 +98,12 @@ Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now li
   <a href="https://github.com/prescoter/Emora-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prescoter&repo=Emora-Project&theme=dark" />
 </a>
+
+# On Discord
+<br/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/587382241588543491)](https://discord.com/users/587382241588543491)
+
   <br/>
   <br/>
 
