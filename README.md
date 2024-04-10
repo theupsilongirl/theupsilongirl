@@ -81,12 +81,13 @@ Hey there! I'm Emi Tanaka, a 20-year-old developer originally from Japan, now li
 </table>
 
 ## Github stats 📊
+
   <br/>
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theupsilongirl&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theupsilongirl&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theupsilongirl&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theupsilongirl&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
   <br/>
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theupsilongirlline=04e61b&point=403d3d&area=true&hide_border=true)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theupsilongirl&bg_color=000000&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true)
 
 <br><br>
   <a href="https://github.com/theupsilongirl/theupsilongirl">
