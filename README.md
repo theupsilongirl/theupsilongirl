@@ -1,8 +1,7 @@
 # Emi Tanaka here !
-
+<!--<a href="https://www.linkedin.com/in/emi-tanaka1/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>-->
 <a href="https://www.instagram.com/theupsilongirl/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.discord.com/users/1227221670658441288"><img src="https://img.shields.io/badge/Discord-%7289da.svg?style=for-the-badge&logo=Discord&logoColor=white&color=7289da"></a>
-<a href="https://www.linkedin.com/in/emi-tanaka1/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="https://t.me/theupsilongirl/"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://gitlab.com/theupsilongirl"><img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <a><img src="https://komarev.com/ghpvc/?username=theupsilongirl&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"></a>
